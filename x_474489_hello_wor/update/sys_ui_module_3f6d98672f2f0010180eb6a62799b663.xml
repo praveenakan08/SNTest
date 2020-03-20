@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="NeedIt">f36d98672f2f0010180eb6a62799b661</application>
+        <filter/>
+        <name>NeedIts</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_474489_hello_wor.needit_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-20 09:45:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3f6d98672f2f0010180eb6a62799b663</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIts</sys_name>
+        <sys_package display_value="Hello World" source="x_474489_hello_wor">a888482b2feb0010180eb6a62799b6ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">a888482b2feb0010180eb6a62799b6ae</sys_scope>
+        <sys_update_name>sys_ui_module_3f6d98672f2f0010180eb6a62799b663</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-20 09:45:33</sys_updated_on>
+        <table>x_474489_hello_wor_needit</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
